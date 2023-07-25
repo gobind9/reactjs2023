@@ -1,0 +1,21 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "react js by namaste reactjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "gobind",
+  "license": "ISC",
+  "dependencies": {
+    "process": "^0.11.10",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
